@@ -7,6 +7,11 @@ namespace Web29_1.Controllers
         public IActionResult Index()
         {
             return View();
+            
+        }
+        public IActionResult Index()
+        {
+            return View();
         }
     }
 }
